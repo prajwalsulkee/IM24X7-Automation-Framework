@@ -7,7 +7,7 @@ Test Application:
 https://saucedemo.com/
 
 ----
-## Tecch Stack
+## Tech Stack
 - Java
 - Selenium WebDriver
 - TestNG
